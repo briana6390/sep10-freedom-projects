@@ -11,7 +11,7 @@ Week 2:
 Week 3:
 - Continue coding
 - Make some changes if needed
-- Ad some stuff if needed 
+- Ad some stuff if needed
 
 Week 4:
 - Finish up the code

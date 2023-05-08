@@ -10,7 +10,15 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-:root {
+ .iframe{
+  width: 100px;
+  height:150px;
+  margin-left:auto;
+  margin-right:auto;
+
+}
+
+ :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
   --bs-purple: #7464a1;
@@ -366,6 +374,10 @@ textarea {
 button,
 select {
   text-transform: none;
+}
+
+.row gx-0{
+  padding : 0px;
 }
 
 [role=button] {
